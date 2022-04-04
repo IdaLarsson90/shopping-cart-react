@@ -3,6 +3,8 @@
     max-width: 300px;
     padding: 1rem;
     border-radius: 3px;
+    box-shadow: 2px 2px 5px #dcdcdc;
+    border: 1px solid #cdcdcd;
 }
 .title {
     margin-bottom: 0;
